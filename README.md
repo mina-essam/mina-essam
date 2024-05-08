@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @**[Mina Essam]**(https://github.com/mina-essam/mina-essam)
+- 👋 Hi, I’m @**[Mina Essam]**
 - 👀 I’m interested in  **low level systems, C/C++/Linux, Self driving cars** 
 - 🌱 I’m currently learning Embedded Linux, Low level code optimization, C++ for high perofrmance applications
 - 💞️ I’m looking to collaborate on code optimizations, embedded projects using C/C++ 
