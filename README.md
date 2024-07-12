@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @**Mina Essam**
 - 👀 I’m interested in  **low level systems, C/C++/Linux, Self driving cars** 
-- 🌱 I’m currently learning Embedded Linux
+- 🌱 I’m currently learning Embedded Linux, Linux image customization
 - 💞️ I’m looking to collaborate on code optimizations, embedded projects using C/C++, Low level code optimization, C++ for high perofrmance applications
 - 📫 How to reach me [Gmail](mina.essam.kamal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/minaessamkamal/)
 - 😄 Pronouns: He/Him
